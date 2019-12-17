@@ -1,1 +1,1 @@
-export PS1='\e[0;35m $ \e[m'
+export PS1='\e[0;31m $ \e[m'
